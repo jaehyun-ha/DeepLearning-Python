@@ -1,0 +1,2 @@
+read.csv()
+data=data[,1:3]
